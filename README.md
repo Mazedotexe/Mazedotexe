@@ -12,4 +12,4 @@
 
 ###### chromeOS exploiter (totally not just stealing things from [ext-remover](https://github.com/3kh0/ext-remover)
 
-i am pretty much useless ¯\_(ツ)_/¯
+i am pretty much useless ¯\\\_(ツ)\_/¯
