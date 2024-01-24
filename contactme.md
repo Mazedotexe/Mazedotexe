@@ -1,2 +1,2 @@
-##  hello!
-the best way to contact me is to DM me on discord, @mazedotexe, but you can also make an issue or discussion on this repo.
+##  Hello!
+If you would like to contact me, [make a discussion](https://github.com/Mazedotexe/Mazedotexe/discussions) on the repo or DM me on Discord (@mazedotexe).
