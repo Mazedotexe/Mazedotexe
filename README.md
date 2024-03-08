@@ -10,7 +10,7 @@
 
 ###### ask me and i might help!
 
-###### chromeOS exploiter (totally not just stealing things from [ext-remover](https://github.com/3kh0/ext-remover)) (real)
+###### chromeOS skid
 
 i am pretty much useless ¯\\\_(ツ)\_/¯<br><br><br>
 <!-- what are you doing here :) -->
