@@ -1,6 +1,6 @@
 # javascript enthusiast
 
-## geometry dash player
+## ~~geometry dash~~ balatro player
 
 ### 18 iq
 
@@ -8,9 +8,9 @@
 
 ##### i can code simple things
 
-###### ask me and i might help!
+###### not really idk
 
-###### chromeOS skid
+###### still stuck with chromeOS
 
 i am pretty much useless ¯\\\_(ツ)\_/¯<br><br><br>
 <!-- what are you doing here -->
